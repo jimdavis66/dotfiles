@@ -7,3 +7,6 @@
 !.gitignore # make sure you add this
 !.bashrc
 !.vimrc
+!.zprofile
+!.zshrc
+!.macos
