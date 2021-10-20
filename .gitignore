@@ -1,0 +1,9 @@
+# .gitignore
+
+# ignore all files
+*
+
+# except these files
+!.gitignore # make sure you add this
+!.bashrc
+!.vimrc
